@@ -168,3 +168,8 @@ C:\Users\Proprietaire\Documents\tmp\aspdotnet-tuto-razor-pages\RazorPagesMovie\b
 C:\Users\Proprietaire\Documents\tmp\aspdotnet-tuto-razor-pages\RazorPagesMovie\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
 C:\Users\Proprietaire\Documents\tmp\aspdotnet-tuto-razor-pages\RazorPagesMovie\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
 C:\Users\Proprietaire\Documents\tmp\aspdotnet-tuto-razor-pages\RazorPagesMovie\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Proprietaire\Documents\tmp\aspdotnet-tuto-razor-pages\RazorPagesMovie\obj\Debug\netcoreapp3.1\Razor\Pages\Movies\Create.cshtml.g.cs
+C:\Users\Proprietaire\Documents\tmp\aspdotnet-tuto-razor-pages\RazorPagesMovie\obj\Debug\netcoreapp3.1\Razor\Pages\Movies\Delete.cshtml.g.cs
+C:\Users\Proprietaire\Documents\tmp\aspdotnet-tuto-razor-pages\RazorPagesMovie\obj\Debug\netcoreapp3.1\Razor\Pages\Movies\Details.cshtml.g.cs
+C:\Users\Proprietaire\Documents\tmp\aspdotnet-tuto-razor-pages\RazorPagesMovie\obj\Debug\netcoreapp3.1\Razor\Pages\Movies\Edit.cshtml.g.cs
+C:\Users\Proprietaire\Documents\tmp\aspdotnet-tuto-razor-pages\RazorPagesMovie\obj\Debug\netcoreapp3.1\Razor\Pages\Movies\Index.cshtml.g.cs
